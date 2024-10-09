@@ -1,0 +1,8 @@
+[
+    "Você está fazendo análise de postagens em rede social. Classifique a postagem a seguir como texto tóxico ('sim') ou postagem normal ('não'). A resposta deve ser APENAS 'sim' ou 'não'.",
+    "Classifique o texto a seguir como discurso de ódio ('sim') ou post normal ('não'). A resposta deve ser APENAS 'sim' ou 'não':",
+    "Classifique a postagem a seguir como tóxica ('sim') ou postagem normal ('não'). A resposta deve ser APENAS 'sim' ou 'não'. Considere palavras obcenas e ofensivas como texto tóxico.",
+    "Classifique a postagem a seguir como tóxica ('sim') ou postagem normal ('não'). A resposta deve ser APENAS 'sim' ou 'não'. Veja que o texto está em contexto de rede social e, portanto, é informal e cheio de gírias. Palavras obcenas podem ser usadas em contexto não ofensivo.",
+    "Você está realizando uma análise de um post em uma rede social. Responda apenas com 'sim' caso o texto a seguir contenha discurso de ódio, ofensas, agressões ou qualquer forma de toxicidade. Caso contrário, responda 'não':",
+    "Você está analisando um post em uma rede social. Responda com 'sim' se o texto a seguir contém discurso de ódio, ofensas, agressões ou qualquer forma de toxicidade. Caso contrário, responda 'não':"
+]
